@@ -1,6 +1,8 @@
 title: TIKI-SHARE dev
 description: All you need to know to use the TIKI-SHARE system and API 
 theme: just-the-docs
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
 
 url: https://tiki-sup.github.io/tiki-share-documentation/
 
