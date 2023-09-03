@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: TIKI-SHARE developer documentation
+description: All you need to know to use the TIKI-SHARE system
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://tiki-sup.github.io/tiki-share-documentation/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  TIKI-SHARE: https://tiki-share.com
