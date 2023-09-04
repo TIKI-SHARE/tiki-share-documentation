@@ -3,7 +3,7 @@ title: Flows
 layout: page
 ---
 
-This page describes the typical flows of the TIKI-SHARE system
+This page describes the typical flows of the TIKI SHARE system
 
 - blocking a resource
 - accessing a resource (open/close locks)
